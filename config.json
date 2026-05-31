@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerprocess",
+        "uuid": 1767171,
+        "checksum": "85zqec"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
